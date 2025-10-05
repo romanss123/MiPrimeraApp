@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -52,3 +53,8 @@ Join our community of developers creating universal apps.
 =======
 # MiPrimeraApp
 >>>>>>> 2fa5279bffb301db629b79e10913b12f9316d11d
+=======
+# MiPrimeraApp
+
+Esta es mi primera app con Expo. ¡Versión combinada!
+>>>>>>> 1b0f10e78c3e645538ce5b47a060e34efbcede7b
